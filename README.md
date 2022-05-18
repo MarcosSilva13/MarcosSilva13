@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Marcos Silva
-
 ---
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java
