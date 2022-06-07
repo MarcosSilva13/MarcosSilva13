@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Marcos Silva
-<img align="center" alt="MarcosSilva13-msqlserver"  src="https://komarev.com/ghpvc/?username=MarcosSilva13&style=flat-square">
-
+<!-- <img align="center" alt="MarcosSilva13-msqlserver"  src="https://komarev.com/ghpvc/?username=MarcosSilva13&style=flat-square"> -->
 ---
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java
