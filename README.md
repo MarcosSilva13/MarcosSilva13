@@ -2,7 +2,7 @@
 <!-- <img align="center" alt="MarcosSilva13-msqlserver"  src="https://komarev.com/ghpvc/?username=MarcosSilva13&style=flat-square"> -->
 ---
 - 🔭 I’m currently studying Information Systems at IFMG SJE.
-- 🌱 I’m currently learning Java and Spring.
+- 🌱 I’m currently learning Java and Spring Boot.
 <!-- - 👯 I’m looking to collaborate on web and desktop systems.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
