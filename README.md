@@ -19,7 +19,7 @@
 </div>
 
 
-## Technologies I use im my day 💬
+## Technologies I use in my day 💬
 
 <div style="display: inline_block" align="center"><br>
     <!-- <img align="center" alt="HTML Icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
