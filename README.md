@@ -14,17 +14,17 @@
  https://dev.to/envoy_/150-badges-for-github-pnk 
 -->
 <div style="display: inline_block" align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcosSilva13&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSilva13&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcosSilva13&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSilva13&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 
 ## Technologies I use in my day 💬
 
 <div style="display: inline_block" align="center"><br>
-    <!-- <img align="center" alt="HTML Icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-    <img align="center" alt="CSS Icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JS Icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+    <!-- <img align="center" alt="HTML Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+    <img align="center" alt="CSS Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="JS Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
     -->
     <img align="center" alt="C Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="C++ Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -33,9 +33,18 @@
     <img align="center" alt="Git Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="GitHub Icon" height="45" src="https://cdn-icons-png.flaticon.com/512/733/733553.png">
     <img align="center" alt="Mysql Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <!-- <img align="center" alt="Mysql Icon" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> -->
     <img align="center" alt="Vscode Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="Intellij Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
     <!-- <img align="center" alt="Csharp Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+</div>
+
+## Socials
+
+<div style="display: inline_block" align="center"><br>
+ <a href="https://www.linkedin.com/in/marcos-silva13/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:marcosslp45@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/marcos_silvaa13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ![Snake animation](https://github.com/MarcosSilva13/MarcosSilva13/blob/output/github-contribution-grid-snake.svg)
