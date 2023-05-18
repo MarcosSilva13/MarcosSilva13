@@ -33,7 +33,7 @@
     <img align="center" alt="Git Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="GitHub Icon" height="45" src="https://cdn-icons-png.flaticon.com/512/733/733553.png">
     <img align="center" alt="Mysql Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <!-- <img align="center" alt="Mysql Icon" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> -->
+    <img align="center" alt="Mysql Icon" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Vscode Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="Intellij Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
     <!-- <img align="center" alt="Csharp Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
