@@ -93,8 +93,9 @@
     <img align="center" alt="CSS Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JS Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
     -->
-    <img align="center" alt="C Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+   <!-- <img align="center" alt="C Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="C++ Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+   -->
     <img align="center" alt="Java Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Spring Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     <img align="center" alt="Git Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
