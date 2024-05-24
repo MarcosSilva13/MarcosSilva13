@@ -1,8 +1,9 @@
-### Hi there 👋, I'm Marcos Silva
+<h1>Hi there 👋</h1>
+
+## My name is Marcos Antônio
 <!-- <img align="center" alt="MarcosSilva13-msqlserver"  src="https://komarev.com/ghpvc/?username=MarcosSilva13&style=flat-square"> -->
----
-- 🔭 I’m currently studying Information Systems at IFMG SJE.
-- 🌱 I’m currently learning Java and Spring Boot.
+- 🎓 I’m currently studying Information Systems at IFMG SJE.
+- 👩‍💻 I’m currently learning Java and Spring Boot to focus on backend development.
 <!-- - 👯 I’m looking to collaborate on web and desktop systems.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -13,14 +14,14 @@
 <!--![stats ](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSilva13&layout=compact&langs_count=10&theme=dracula)
  https://dev.to/envoy_/150-badges-for-github-pnk 
 -->
+<br>
 <div style="display: inline_block" align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcosSilva13&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSilva13&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSilva13&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
 
 
 ## Technologies I use in my day 💬
-
 <!--<table>
   <tr>
     <td align="center">
@@ -87,6 +88,12 @@
     </td>
   </tr>
 </table> -->
+
+<!--<div align="center">
+ 
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,git,github,mysql,postgresql,vscode,idea&theme=dark)](https://skillicons.dev)
+
+</div>-->
 
 <div style="display: inline_block" align="center"><br>
     <!-- <img align="center" alt="HTML Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
