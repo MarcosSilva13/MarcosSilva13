@@ -114,7 +114,7 @@
     <!-- <img align="center" alt="Csharp Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div>
 
-## Socials
+## Minhas redes
 
 <div style="display: inline_block" align="center"><br>
  <a href="https://www.linkedin.com/in/marcos-silva13/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
