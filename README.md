@@ -1,9 +1,9 @@
-<h1>Hi there 👋</h1>
+<h1>Olá 👋</h1>
 
-## My name is Marcos Antônio
+## Meu nome é Marcos Antônio
 <!-- <img align="center" alt="MarcosSilva13-msqlserver"  src="https://komarev.com/ghpvc/?username=MarcosSilva13&style=flat-square"> -->
-- 🎓 I’m currently studying Information Systems at IFMG SJE.
-- 👩‍💻 I’m currently learning Java and Spring Boot to focus on backend development.
+- 🎓 Sou formado em Sistemas de Informação pelo IFMG SJE.
+- 👩‍💻 Atualmente estudando Java and Spring Boot com o foco voltado para o desenvolvimento backend.
 <!-- - 👯 I’m looking to collaborate on web and desktop systems.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -21,7 +21,7 @@
 </div>
 
 
-## Technologies I use in my day 💬
+## Tecnologias e ferramentas que uso no dia a dia 💬
 <!--<table>
   <tr>
     <td align="center">
