@@ -2,8 +2,8 @@
 
 ## Meu nome é Marcos Antônio
 <!-- <img align="center" alt="MarcosSilva13-msqlserver"  src="https://komarev.com/ghpvc/?username=MarcosSilva13&style=flat-square"> -->
-- 🎓 Sou formado em Sistemas de Informação pelo IFMG SJE.
-- 👩‍💻 Atualmente estudando Java and Spring Boot com o foco voltado para o desenvolvimento backend.
+- 🎓 Graduado em Sistemas de Informação pelo IFMG – Campus São João Evangelista.
+- 👨‍💻 Desenvolvedor Backend com foco em Java e Spring Boot, criando APIs e soluções escaláveis.
 <!-- - 👯 I’m looking to collaborate on web and desktop systems.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -95,7 +95,7 @@
 
 </div>-->
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_bloc" align="center"><br>
     <!-- <img align="center" alt="HTML Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
     <img align="center" alt="CSS Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JS Icon" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
